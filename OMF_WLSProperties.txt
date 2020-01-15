@@ -2,5 +2,5 @@
 # Modify below values with proper address and credentials
 ADMIN_IP_PORT=IP:PORT,IP:PORT
 USER=xxxxx
-PASS=xxxxx
+ENCRPT_PASS=xxxxx
 
